@@ -1,6 +1,6 @@
 # Proyecto de Estructuras de Datos en Python
 
-**Nombre:** [Tu Nombre Completo]  
+**Nombre:** [Santiago Pinzon Gallego]  
 **Ficha:** 3114227
 
 ---
